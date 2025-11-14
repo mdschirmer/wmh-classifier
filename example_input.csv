@@ -1,0 +1,3 @@
+wmh_mask,ventricle_mask
+/data/sub-001_WMH.nii.gz,/data/sub-001_ventricles.nii.gz
+/data/sub-002_WMH.nii.gz,/data/sub-002_ventricles.nii.gz
