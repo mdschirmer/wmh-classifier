@@ -485,6 +485,7 @@ If you use this tool in your research, please cite:
 ## Contributing
 
 Contributions are welcome! Areas for improvement:
+- General testing
 - Additional classification methods
 - Performance optimizations
 - Validation studies
@@ -497,6 +498,23 @@ Please submit pull requests or open issues on GitHub.
 ## License
 
 MIT License - See LICENSE file for details
+
+## Citation
+
+If you use this tool in your research, please cite:
+```bibtex
+@software{wmh_classifier_2025,
+  author = {Markus D. Schirmer},
+  title = {WMH Classifier: Spatial Stratification of White Matter Hyperintensities},
+  year = {2025},
+  url = {https://github.com/mdschirmer/wmh-classifier},
+  version = {1.0.0}
+}
+```
+
+**Formatted citation:**
+
+Your Name. (2025). *WMH Classifier: Spatial Stratification of White Matter Hyperintensities* (Version 1.0.0) [Computer software]. GitHub. https://github.com/mdschirmer/wmh-classifier
 
 ## Support
 
